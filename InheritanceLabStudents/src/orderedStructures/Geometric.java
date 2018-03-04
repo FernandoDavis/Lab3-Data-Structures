@@ -29,4 +29,5 @@ public class Geometric extends Progression {
 	public String toString() {
 		return "Geom (" + (int) super.getTerm(1) + ", " + (int) commonFactor + ")";
 	}
+
 }
